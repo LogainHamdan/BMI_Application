@@ -1,3 +1,5 @@
 # bmi_application
 
-![screenshott](https://drive.google.com/file/d/1MwPSTCdU9kTNDx5hrNkKBD3i_KE5ma_L/view?usp=sharing)
+![screenshot](https://github.com/LogainHamdan/BMI_Application/blob/8b8a2c9c00c930ef72315b231002fd335d45f086/Screenshot_33.png)
+![screenshot](https://github.com/LogainHamdan/BMI_Application/blob/8b8a2c9c00c930ef72315b231002fd335d45f086/Screenshot_34.png)
+
